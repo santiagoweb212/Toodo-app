@@ -1,0 +1,17 @@
+.divContainer {
+  display: flex;
+  background-color: #f2f2f2;
+  border-radius: 0.5rem;
+  justify-content: space-between;
+  padding-left: 1%;
+  padding-right: 1%;
+  align-items: center;
+  text-align: center;
+  align-content: center;
+}
+.input {
+}
+.img {
+  width: 1.5em;
+  cursor: pointer;
+}

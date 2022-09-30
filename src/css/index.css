@@ -1,0 +1,12 @@
+body{
+    background-color:#fff6bf;
+}
+.divContainerMain{
+    display: flex;
+    justify-content: center;
+    
+}
+.containerMain{
+    width: 65%;
+    height: auto;
+}
